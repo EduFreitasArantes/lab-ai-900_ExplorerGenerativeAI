@@ -28,7 +28,7 @@ A seguir, estão os print screens dos resultados das solicitações:
 - [Print Screen 02](https://github.com/EduFreitasArantes/lab-ai-900_ExplorerGenerativeAI/blob/main/output/002.jpg)
 
 5. **Geração de Imagens e Código:**
-   - Além de respostas em texto, você também pode usar prompts para gerar imagens e código. Por exemplo, digite: "Crie um novo super-herói" ou "Use Python para criar uma lista".
+   - Além de respostas em texto, você também pode usar prompts para gerar imagens e código. Por exemplo, digite: "Crie um novo super-herói" ou "Transforme este frango em um super-heroi" ou "Use Python para criar uma lista".
 
 A seguir, está a imagem enviada para alteração
 - [Image 01](https://github.com/EduFreitasArantes/lab-ai-900_ExplorerGenerativeAI/blob/main/input/001.jpg)
